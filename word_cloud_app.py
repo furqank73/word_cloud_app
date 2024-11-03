@@ -132,7 +132,7 @@ if uploaded_file:
 # Sidebar Information and Branding
 st.sidebar.markdown("---")
 st.sidebar.title("💡 About Us")
-st.sidebar.write("This app is created by the [Data Science Pro Team](https://github.com/DataSciencePro).")
+st.sidebar.write("This app is created by the [FURQAN KHAN](https://github.com/furqank73/word_cloud_app).")
 st.sidebar.write("Get in touch at [Email](mailto:contact@datasciencepro.com)")
 st.sidebar.markdown("---")
 st.sidebar.markdown(
